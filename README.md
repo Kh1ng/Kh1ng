@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kh1ng
 - 👀 I’m interested in linux, Java, android apps, games and learning computer science.
-- 🌱 I’m currently learning Java, C++ and NGULr.
+- 🌱 I’m currently learning Java, C++ and Angular.
 - 💞️ I’m looking to collaborate on ANYTHING.
 - 📫 How to reach me ... khing@pm.me
 
