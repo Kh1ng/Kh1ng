@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Kh1ng
-- 👀 I’m interested in linux, Java, android apps, games and learning computer science.
-- 🌱 I’m currently learning Java, C++ and Angular.
-- 💞️ I’m looking to collaborate on ANYTHING.
-- 📫 How to reach me ... khing@pm.me
+- 👀 I’m interested in Linux, Rust, Java and Angular.
+- 🌱 I’m currently working towards my Bachelors in Computer Science.
+- 💞️ I’m looking to collaborate on any project I can learn from.
+- 📫 How to reach me: khing@pm.me
 
 <!---
 Kh1ng/Kh1ng is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
