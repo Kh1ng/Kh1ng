@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Kh1ng
-- 👀 I’m interested in Linux, Rust, Java and Angular.
+- 👀 I’m interested in Java, Front End Development and C++.
 - 🌱 I’m currently working towards my Bachelors in Computer Science.
-- 💞️ I’m looking to collaborate on any project I can learn from.
+- 💞️ I’m looking to learn.
 - 📫 How to reach me: khing@pm.me
 
 <!---
