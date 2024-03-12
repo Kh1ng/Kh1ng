@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Kh1ng
+- 👋 Hi, I’m Colton!
 - 👀 I’m interested in Full Stack Development, C++, Java, and Linux.
 - 🌱 I’m currently working towards my Bachelor's in Computer Science.
 - 💞️ I’m looking to learn and contribute to interesting projects.
